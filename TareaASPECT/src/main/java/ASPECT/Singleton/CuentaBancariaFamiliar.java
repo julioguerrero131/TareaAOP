@@ -1,4 +1,4 @@
-package ASPECT;
+package ASPECT.Singleton;
 
 public class CuentaBancariaFamiliar {
     

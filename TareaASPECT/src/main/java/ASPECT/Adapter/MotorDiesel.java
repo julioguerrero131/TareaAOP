@@ -1,14 +1,14 @@
-package ASPECT;
+package ASPECT.Adapter;
 
-public class MotorGasolina extends Motor{
+public class MotorDiesel extends Motor{
     
-    public MotorGasolina(){
+    public MotorDiesel(){
         super();
     }
 
     @Override
     public void recargar() {
-        System.out.println("Recargando con gasolina");
+        System.out.println("Recargando con diesel");
     }
     
     @Override

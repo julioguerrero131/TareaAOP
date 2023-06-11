@@ -1,4 +1,4 @@
-package ASPECT;
+package ASPECT.Adapter;
 
 public class MotorElectricoAdapter extends Motor{
     

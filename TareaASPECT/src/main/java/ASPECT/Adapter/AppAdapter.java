@@ -1,4 +1,4 @@
-package ASPECT;
+package ASPECT.Adapter;
 
 import java.util.Scanner;
 
